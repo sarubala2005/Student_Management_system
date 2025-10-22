@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Sarubala V",
+        "age": 20,
+        "roll_no": "101",
+        "marks": 89,
+        "course": "AI & Data Science"
+    },
+    {
+        "name": "Priya S",
+        "age": 21,
+        "roll_no": "102",
+        "marks": 92,
+        "course": "Computer Science"
+    },
+    {
+        "name": "Karthik R",
+        "age": 22,
+        "roll_no": "103",
+        "marks": 85,
+        "course": "Information Technology"
+    },
+    {
+        "name": "Vignesh M",
+        "age": 20,
+        "roll_no": "104",
+        "marks": 78,
+        "course": "Electronics and Communication"
+    },
+    {
+        "name": "Harini T",
+        "age": 21,
+        "roll_no": "105",
+        "marks": 95,
+        "course": "AI & Data Science"
+    }
+]
